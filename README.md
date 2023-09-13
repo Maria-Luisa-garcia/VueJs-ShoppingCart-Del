@@ -1,3 +1,10 @@
+<center> 
+<img 
+src="htpp"
+alt="Itgam Banner" />
+
+</center>
+
 # Shopping Cart App 
 
 Proyecto para el curso de Desarrollo de Aplicaciones 
